@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.230196642926-i0l5f2ik2m5d9vf1g489r9pftq3jpgd4</string>
+			</array>
+		</dict>
+	</array>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>230196642926-i0l5f2ik2m5d9vf1g489r9pftq3jpgd4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.230196642926-i0l5f2ik2m5d9vf1g489r9pftq3jpgd4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-MvB1CIx78VgPgIhGwLBXKxvlVoVQ4BA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>230196642926</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wajid.IftarSchedule</string>
+	<key>PROJECT_ID</key>
+	<string>iftarschedule</string>
+	<key>STORAGE_BUCKET</key>
+	<string>iftarschedule.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:230196642926:ios:4d19df63c7f7fa33</string>
+	<key>DATABASE_URL</key>
+	<string>https://iftarschedule.firebaseio.com</string>
+</dict>
+</plist>
